@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkproject"]=self["webpackChunkproject"]||[]).push([[685],{45082:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var u=function(){var e=this,n=e._self._c;return n("div",[e._v("注册页")])},r=[],c={},l=c,s=t(1001),f=(0,s.Z)(l,u,r,!1,null,"02413467",null),i=f.exports}}]);
+//# sourceMappingURL=register.32d1fb4c.js.map
